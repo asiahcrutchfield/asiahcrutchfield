@@ -17,8 +17,8 @@ Currently, I am a CS major studying in Taiwan. Programming is something I have h
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**([your_website_or_blog_link](https://asiahcrutchfield.com/))
-- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/asiahcrutchfield/))
-- **[Twitter]**([your_twitter_profile_link](https://x.com/AsiahCrutch))
+- **[Personal Website / Blog]**([My website](https://asiahcrutchfield.com/))
+- **[LinkedIn]**([LinkedIn](https://www.linkedin.com/in/asiahcrutchfield/))
+- **[Twitter]**([X](https://x.com/AsiahCrutch))
 
 

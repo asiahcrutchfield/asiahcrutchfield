@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Asiah Crutchfield (孫塞亞)! 👋
 
-<!--
-**asiahcrutchfield/asiahcrutchfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+Currently, I am a CS major studying in Taiwan. Programming is something I have had an interest in for some years so when I had a chance to be able study full-time, I jumped at the opportunity. As I embark on my learning journey, I will be making projects that are useful and/or interesting to improve my skills and solve problems in unique ways.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: **C++ | Javascript | HTML**
+- 🔭 Working on: **A name_guesser program**
+- 🌍 Languages: **English | Basic Mandarin Chinese (A1)**
+- 📫 How to reach me: **asiah@asiahcrutchfield.com**
+
+## Featured Projects 💻
+
+### [Name Guesser]([https://github.com/asiahcrutchfield/name-guesser](https://github.com/asiahcrutchfield/name-guesser))
+
+**Name Guesser** is a **game that attempts to guess whether the name you provide it is your real name or if you're lying** built with **C++**. You can check out the repository [here]([https://github.com/asiahcrutchfield/name-guesser](https://github.com/asiahcrutchfield/name-guesser)).
+
+## Get in Touch 📬
+
+- **[Personal Website / Blog]**([your_website_or_blog_link](https://asiahcrutchfield.com/))
+- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/asiahcrutchfield/))
+- **[Twitter]**([your_twitter_profile_link](https://x.com/AsiahCrutch))
+
+
